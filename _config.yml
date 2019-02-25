@@ -1,0 +1,6 @@
+	name: Naomi Thompson's Portfolio
+	markdown: kramdown
+    theme: jekyll-theme-cayman
+    title: Naomi Thompson's Portfolio
+    description: A professional portfolio for Naomi Thompson
+    show_downloads: false
