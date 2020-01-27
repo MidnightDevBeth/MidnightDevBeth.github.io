@@ -1,4 +1,18 @@
-theme: jekyll-theme-cayman
-title: Naomi's Portfolio
-description: A portfolio for Naomi Thompson
-show_downloads: false
+# Setup
+title:        Naomi Thompson's Portfolio
+tagline:      A portfolio for Naomi Thompson
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Naomi Thompson
+  url:        https://midnightdevbeth.github.io/ 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
